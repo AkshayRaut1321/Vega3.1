@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Vega3._1.Controllers
+namespace Vega.Controllers
 {
     [ApiController]
     [Route("[controller]")]
