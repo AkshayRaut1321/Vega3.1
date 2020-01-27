@@ -1,6 +1,6 @@
 using System;
 
-namespace Vega3._1
+namespace Vega
 {
     public class WeatherForecast
     {
