@@ -29,7 +29,9 @@ namespace Vega.Controllers
 
         public void FeatureBranchCode()
         {
-            
+        }
+        public void MasterBranchCode()
+        {
         }
     }
 }
