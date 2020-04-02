@@ -26,5 +26,9 @@ namespace Vega.Controllers
             var makes = await context.Makes.Include(m => m.Models).ToListAsync();
             return mapper.Map<List<Make>, List<MakeResource>>(makes);
         }
+
+        public void MasterBranchCode()
+        {
+        }
     }
 }
